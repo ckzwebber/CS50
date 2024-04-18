@@ -1,0 +1,21 @@
+* {
+    margin-left: 0.6%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#harvard {
+    color: red;
+}
+
+#yale {
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
